@@ -1,8 +1,0 @@
-# Ignorar el directorio de imágenes
-/imagenes/
-
-# Ignorar ficheros de tipo .log
-*.log
-
-# Ignorar un fichero
-README.txt
